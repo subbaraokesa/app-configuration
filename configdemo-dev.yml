@@ -1,8 +1,8 @@
 build:
   id: 101
   version: 1.2.3
-  name: "Native Dev-Production-Build 999"
-  type: "Native Development Build"
+  name: "Git Dev-Production-Build 999"
+  type: "Git Development Build"
 
 spring:
   rabbitmq:
